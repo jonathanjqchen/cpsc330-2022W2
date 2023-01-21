@@ -1,3 +1,7 @@
+---
+date created: Sunday, January 15th 2023, 12:59:24 pm
+date modified: Sunday, January 15th 2023, 3:23:15 pm
+---
 # Course information
 
 [UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-330-201-2021w)

@@ -1,3 +1,7 @@
+---
+date created: Sunday, January 15th 2023, 12:59:24 pm
+date modified: Sunday, January 15th 2023, 3:23:15 pm
+---
 # How to ask for help
 
 We will use [Piazza](https://piazza.com/ubc.ca/winterterm22023/cpsc3302012022032022w2/home) for general questions as well as your specific questions about grades. You can access the course's Piazza through the Canvas tab.

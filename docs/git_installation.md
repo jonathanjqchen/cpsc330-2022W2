@@ -1,3 +1,7 @@
+---
+date created: Sunday, January 15th 2023, 12:59:24 pm
+date modified: Sunday, January 15th 2023, 3:23:15 pm
+---
 # What are git and GitHub?
 
 GitHub uses the [git version control system](https://en.wikipedia.org/wiki/Git). Roughly speaking, git is the system that takes care of different versions of your files and merging together changes from different collaborators (and much more!). git is [free software](https://en.wikipedia.org/wiki/Free_software). 

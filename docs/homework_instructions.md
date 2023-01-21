@@ -1,3 +1,7 @@
+---
+date created: Sunday, January 15th 2023, 12:59:24 pm
+date modified: Sunday, January 15th 2023, 3:23:15 pm
+---
 # Homework info & submission guidelines
 
 You will be submitting your homework assignments on Gradescope. Check out [Gradescope Student Guide](https://lthub.ubc.ca/guides/gradescope-student-guide/). 
